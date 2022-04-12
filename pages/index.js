@@ -18,12 +18,12 @@ export default function Home() {
         subTitle={'good movie'}
         imgUrl={'/static/images/clifford.webp'}
       />
+
       <CardComponent
         imgUrl={'/static/images/clifford.webp'}
         size={'large'}
       />
       <CardComponent
-        imgUrl={'/static/images/clifford.webp'}
         size={'medium'}
       />
       <CardComponent
